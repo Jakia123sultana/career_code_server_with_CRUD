@@ -1,9 +1,6 @@
-# ![Job Portal Logo](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-job-recruitment-human-resources-flaticons-lineal-color-flat-icons.png) Online Job Portal - Backend
+# Online Job Portal - Backend
 
-[![Node.js](https://img.shields.io/badge/Node.js-v18+-green)](https://nodejs.org/)  
-[![Express](https://img.shields.io/badge/Express.js-4.18-blue)](https://expressjs.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)](https://www.mongodb.com/)  
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+
 
 ---
 
